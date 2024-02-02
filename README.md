@@ -6,7 +6,9 @@ Welcome to the Holberton School Headphones project! This project involves buildi
 
 Start by setting strong foundations for the web page:
 
+![2](https://github.com/Miteto08/holbertonschool-headphones/assets/136317791/4c7dad50-8a42-458c-9506-98b4c36d3456)
 
+![3](https://github.com/Miteto08/holbertonschool-headphones/assets/136317791/5fee5743-321a-4e9a-9f5f-3841d2f05747)
 
 * Reset CSS styling.
 * Use variables for consistent styling.
@@ -54,6 +56,10 @@ Copy files from the previous task and add a contact form:
 ## Task 4: Footer
 
 Copy files from the previous task and complete the web page with the footer:
+
+![4](https://github.com/Miteto08/holbertonschool-headphones/assets/136317791/5f8817ba-8602-4fad-85f7-5e6ec6bba369)
+
+![5](https://github.com/Miteto08/holbertonschool-headphones/assets/136317791/233059f9-55c4-4bbb-8568-ba4756fcbc3a)
 
 **Repo:** GitHub Repository: holbertonschool-headphones
 **Files:** 4-index.html, 4-styles.css
